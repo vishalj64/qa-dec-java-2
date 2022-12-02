@@ -4,3 +4,4 @@ dev-3 create payments func
 qa-1 test home page and cart functionality
 qa-2 test payment func
 qa-3 define sel automation script
+made required changes, kindly check
